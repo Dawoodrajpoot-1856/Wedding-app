@@ -45,7 +45,7 @@ export const themes: Theme[] = [
     date: "20 . 12 . 2026",
     colors: ["#FBCFE8", "#9D174D"],
     ink: "#4A1D33",
-    image: "/images/Theme11.png",
+    image: "/images/Theme5.png",
     link: "https://Card-template2.vercel.app",
   },
   {
