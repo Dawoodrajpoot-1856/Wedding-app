@@ -14,7 +14,7 @@ const display = Cormorant_Garamond({
 const body = Outfit({ subsets: ["latin"], variable: "--font-body" });
 
 export const metadata: Metadata = {
-  title: "Dawood Invites | Digital Wedding Cards",
+  title: "Ahads Invites | Digital Wedding Cards",
   description:
     "Animated digital wedding cards: Nikah, Mehndi, Barat, Walima aur Engagement ke liye.",
 };

@@ -9,7 +9,7 @@ export default function Footer() {
         <div className="footer-grid">
           <div>
             <div className="logo">
-              Wedding<span>.</span>Invites
+              Ahads<span>.</span>Invites
             </div>
             <p className="muted" style={{ marginTop: 10, maxWidth: "34ch" }}>
               {site.tagline}

@@ -22,7 +22,7 @@ export default function Header() {
   return (
     <header className="header">
       <div className="container header-in">
-        <Link href="/" className="logo">Wedding<span>.</span>Invites</Link>
+        <Link href="/" className="logo">Ahads<span>.</span>Invites</Link>
 
         <nav className="nav">
           {links.map((l) => (
