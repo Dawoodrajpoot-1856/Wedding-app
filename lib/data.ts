@@ -33,7 +33,7 @@ export const themes: Theme[] = [
     colors: ["#C7D2FE", "#FBCFE8"],
     ink: "#3B1F4A",
     image: "/images/Theme10.png",
-    link: "https://wedding-template1.vercel.app",
+    link: "https://Card-template1.vercel.app",
   },
 
   {
@@ -46,7 +46,7 @@ export const themes: Theme[] = [
     colors: ["#FBCFE8", "#9D174D"],
     ink: "#4A1D33",
     image: "/images/Theme11.png",
-    link: "https://wedding-template2.vercel.app",
+    link: "https://Card-template2.vercel.app",
   },
   {
     id: "theme-4",
@@ -58,7 +58,7 @@ export const themes: Theme[] = [
     colors: ["#1E3A8A", "#D4AF37"],
     ink: "#FFF7D6",
     image: "/images/Theme4.png",
-    link: "https://wedding-template3.vercel.app",
+    link: "https://Card-template3.vercel.app",
   },
   {
     id: "minimal-ivory",
@@ -70,7 +70,7 @@ export const themes: Theme[] = [
     colors: ["#F5F5F4", "#D6C7B0"],
     ink: "#3F2E1E",
     image: "/images/Theme7.png",
-    link: "https://wedding-template4.vercel.app",
+    link: "https://Card-template4.vercel.app",
   },
   {
     id: "royal-marigold",
@@ -82,7 +82,7 @@ export const themes: Theme[] = [
     colors: ["#F4A62A", "#C2410C"],
     ink: "#FFF7E6",
     image: "/images/Theme6.png",
-    link: "https://wedding-template5.vercel.app",
+    link: "https://Card-template5.vercel.app",
   },
   {
     id: "rose-nikah",
@@ -94,7 +94,7 @@ export const themes: Theme[] = [
     colors: ["#F9C6D4", "#B3205A"],
     ink: "#FFFFFF",
     image: "/images/Theme3.png",
-    link: "https://wedding-template6.vercel.app",
+    link: "https://Card-template6.vercel.app",
   },
   {
     id: "emerald-walima",
@@ -106,7 +106,7 @@ export const themes: Theme[] = [
     colors: ["#0F766E", "#052E2B"],
     ink: "#F7E7B0",
     image: "/images/template5.png",
-    link: "https://wedding-theme7.vercel.app",
+    link: "https://Card-theme7.vercel.app",
   },
   {
     id: "theme-2",
@@ -118,7 +118,7 @@ export const themes: Theme[] = [
     colors: ["#DC2626", "#7F1D1D"],
     ink: "#FFF1F2",
     image: "/images/Theme2.png",
-    link: "https://wedding-template8.vercel.app",
+    link: "https://Card-template8.vercel.app",
   },
 
   {
@@ -131,7 +131,7 @@ export const themes: Theme[] = [
     colors: ["#2B1055", "#7597DE"],
     ink: "#FFFFFF",
     image: "/images/Theme1.png",
-    link: "https://wedding-template9.vercel.app",
+    link: "https://Card-template9.vercel.app",
   },
   {
     id: "theme-12",
@@ -143,7 +143,7 @@ export const themes: Theme[] = [
     colors: ["#FDE68A", "#92400E"],
     ink: "#3B2208",
     image: "/images/Theme12.png",
-    link: "https://wedding-template10.vercel.app",
+    link: "https://Card-template10.vercel.app",
   },
 
   {
@@ -156,7 +156,7 @@ export const themes: Theme[] = [
     colors: ["#86EFAC", "#F472B6"],
     ink: "#2A1424",
     image: "/images/Theme8.png",
-    link: "https://wedding-template11.vercel.app",
+    link: "https://Card-template11.vercel.app",
   },
   {
     id: "golden-mughal",
@@ -168,7 +168,7 @@ export const themes: Theme[] = [
     colors: ["#3B0A1E", "#B8860B"],
     ink: "#FFE8A3",
     image: "/images/Theme9.png",
-    link: "https://wedding-template12.vercel.app",
+    link: "https://Card-template12.vercel.app",
   },
 ];
 
