@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { site } from "@/lib/config";
+import CurrentYear from "@/components/CurrentYear";
 
 export default function Footer() {
   return (
@@ -36,8 +37,8 @@ export default function Footer() {
           </div>
         </div>
         <p className="copy">
-          &copy; {site.year} {site.name}. Har card, ek nayi shuruaat.
-        </p>{" "}
+          &copy; <CurrentYear /> {site.name}. Har card, ek nayi shuruaat.
+        </p>
       </div>
     </footer>
   );
