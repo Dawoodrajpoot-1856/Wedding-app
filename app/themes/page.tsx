@@ -1,7 +1,7 @@
 import ThemesGrid from "@/components/ThemesGrid";
 import Reveal from "@/components/Reveal";
 
-export const metadata = { title: "Themes | Noor Invites" };
+export const metadata = { title: "Themes | Ahads Invites" };
 
 export default function ThemesPage() {
   return (

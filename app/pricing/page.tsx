@@ -2,7 +2,7 @@ import PricingCards from "@/components/PricingCards";
 import Faq from "@/components/Faq";
 import Reveal from "@/components/Reveal";
 
-export const metadata = { title: "Pricing | Noor Invites" };
+export const metadata = { title: "Pricing | Ahads Invites" };
 
 export default function PricingPage() {
   return (

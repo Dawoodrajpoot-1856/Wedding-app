@@ -2,7 +2,7 @@ import ContactForm from "@/components/ContactForm";
 import Reveal from "@/components/Reveal";
 import { site } from "@/lib/config";
 
-export const metadata = { title: "Contact us | Noor Invites" };
+export const metadata = { title: "Contact us | Ahads Invites" };
 
 export default function Contact() {
   const info = [

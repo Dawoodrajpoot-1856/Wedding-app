@@ -2,7 +2,7 @@ import Reveal from "@/components/Reveal";
 import Counter from "@/components/Counter";
 import { site } from "@/lib/config";
 
-export const metadata = { title: "About us | Noor Invites" };
+export const metadata = { title: "About us | Ahads Invites" };
 
 const values = [
   { t: "Dil se design", d: "Har card ek kahani hai. Hum aap ke rishtay ke rang us me bharte hain." },
