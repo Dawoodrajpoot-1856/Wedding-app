@@ -72,18 +72,7 @@ export const themes: Theme[] = [
     image: "/images/Theme7.png",
     link: "https://Card-template4.vercel.app",
   },
-  {
-    id: "royal-marigold",
-    title: "Royal Marigold",
-    category: "Mehndi",
-    price: "Rs 3500",
-    names: "Ayesha & Hamza",
-    date: "14 . 02 . 2027",
-    colors: ["#F4A62A", "#C2410C"],
-    ink: "#FFF7E6",
-    image: "/images/Theme6.png",
-    link: "https://Card-template5.vercel.app",
-  },
+
   {
     id: "rose-nikah",
     title: "Rose Nikah",
